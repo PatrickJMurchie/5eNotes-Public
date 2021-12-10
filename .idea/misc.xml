@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CW/5eNotes/app/src/main/res/layout-land/fragment_itemlist.xml" value="0.25" />
+        <entry key="..\:/CW/5eNotes/app/src/main/res/layout-land/fragment_items.xml" value="0.22" />
+        <entry key="..\:/CW/5eNotes/app/src/main/res/layout-land/fragment_location_selection.xml" value="0.34010416666666665" />
+        <entry key="..\:/CW/5eNotes/app/src/main/res/layout-land/fragment_notes.xml" value="0.22" />
+        <entry key="..\:/CW/5eNotes/app/src/main/res/layout/activity_task_recycler_view.xml" value="0.20520833333333333" />
+        <entry key="..\:/CW/5eNotes/app/src/main/res/layout/fragment_itemlist.xml" value="0.20520833333333333" />
+        <entry key="..\:/CW/5eNotes/app/src/main/res/layout/fragment_items.xml" value="0.20520833333333333" />
+        <entry key="..\:/CW/5eNotes/app/src/main/res/layout/fragment_location_selection.xml" value="0.20520833333333333" />
+        <entry key="..\:/CW/5eNotes/app/src/main/res/layout/fragment_notes.xml" value="0.20520833333333333" />
+        <entry key="..\:/From_Desktop/corsw/5eNotes/app/src/main/res/layout/notes_item_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/5ENotes/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/5ENotes/app/src/main/res/layout/fragment_itemlist.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/5ENotes/app/src/main/res/layout/fragment_items.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/5ENotes/app/src/main/res/layout/fragment_location_selection.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/5ENotes/app/src/main/res/layout/fragment_notes.xml" value="0.22" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout-land/dialog_nn.xml" value="0.32083333333333336" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout-land/fragment_change_note.xml" value="0.35495495495495494" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout-land/fragment_create_note.xml" value="0.29010416666666666" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout-land/fragment_itemlist.xml" value="0.32083333333333336" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout-land/fragment_items.xml" value="0.32083333333333336" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout-land/fragment_notes.xml" value="0.32083333333333336" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout-land/items_layout.xml" value="0.32083333333333336" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout-land/lst_layout.xml" value="0.5046875" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout-land/notes_item_layout.xml" value="0.5046875" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout/activity_main.xml" value="0.2015625" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout/dialog_nn.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout/fragment_change_note.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout/fragment_create_note.xml" value="0.33" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout/fragment_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout/fragment_itemlist.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout/fragment_items.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout/fragment_new_my_item.xml" value="0.75" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout/fragment_notes.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout/fragment_rec_notes_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout/items_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout/lst_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/5eNotes/5eNotes/app/src/main/res/layout/notes_item_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/CWTT/5eNotes/app/src/main/res/layout-land/fragment_itemlist.xml" value="0.3081081081081081" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/CWTT/5eNotes/app/src/main/res/layout-land/fragment_items.xml" value="0.35495495495495494" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/CWTT/5eNotes/app/src/main/res/layout-land/fragment_location_selection.xml" value="0.35495495495495494" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/CWTT/5eNotes/app/src/main/res/layout-land/fragment_notes.xml" value="0.35495495495495494" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/CWTT/5eNotes/app/src/main/res/layout-land/items_layout.xml" value="0.3081081081081081" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/CWTT/5eNotes/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/CWTT/5eNotes/app/src/main/res/layout/fragment_itemlist.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/CWTT/5eNotes/app/src/main/res/layout/fragment_items.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/CWTT/5eNotes/app/src/main/res/layout/fragment_location_selection.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/CWTT/5eNotes/app/src/main/res/layout/fragment_note_rec_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/CWTT/5eNotes/app/src/main/res/layout/fragment_notes.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/CWTT/5eNotes/app/src/main/res/layout/fragment_rec_notes_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/CWTT/5eNotes/app/src/main/res/layout/items_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/CWTT/5eNotes/app/src/main/res/layout/lst_layout.xml" value="0.33" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/CWTT/5eNotes/app/src/main/res/layout/notes_item_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/cm3110-coursework-PatrickJMurchie/5ENotes/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/cm3110-coursework-PatrickJMurchie/5ENotes/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/cm3110-coursework-PatrickJMurchie/5ENotes/app/src/main/res/layout/fragment_itemlist.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/cm3110-coursework-PatrickJMurchie/5ENotes/app/src/main/res/layout/fragment_items.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/cm3110-coursework-PatrickJMurchie/5ENotes/app/src/main/res/layout/fragment_location_selection.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/cm3110-coursework-PatrickJMurchie/5ENotes/app/src/main/res/layout/fragment_notes.xml" value="0.18" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/cw/5eNotes/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/cw/5eNotes/app/src/main/res/layout/fragment_note_rec_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/cw/5eNotes/app/src/main/res/layout/fragment_notes.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/cw/5eNotes/app/src/main/res/layout/fragment_rec_notes_view.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/User/Desktop/Classes/Mobile app dev/cw/5eNotes/app/src/main/res/layout/notes_item_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/crw/5eNotes/app/src/main/res/layout-land/fragment_itemlist.xml" value="0.1675485008818342" />
+        <entry key="..\:/crw/5eNotes/app/src/main/res/layout-land/fragment_notes.xml" value="0.1675485008818342" />
+        <entry key="..\:/crw/5eNotes/app/src/main/res/layout/activity_main.xml" value="0.19791666666666666" />
+        <entry key="..\:/crw/5eNotes/app/src/main/res/layout/activity_rec_view.xml" value="0.19791666666666666" />
+        <entry key="..\:/crw/5eNotes/app/src/main/res/layout/activity_task_recycler_view.xml" value="0.20520833333333333" />
+        <entry key="..\:/crw/5eNotes/app/src/main/res/layout/fragment_itemlist.xml" value="0.19791666666666666" />
+        <entry key="..\:/crw/5eNotes/app/src/main/res/layout/fragment_note_rec_item.xml" value="0.19791666666666666" />
+        <entry key="..\:/crw/5eNotes/app/src/main/res/layout/fragment_notes.xml" value="0.19791666666666666" />
+        <entry key="..\:/crw/5eNotes/app/src/main/res/layout/fragment_rec_notes_view.xml" value="0.20520833333333333" />
+        <entry key="..\:/crw/5eNotes/app/src/main/res/layout/notes_item_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/crw/5eNotes/app/src/main/res/layout/rec_notes.xml" value="0.20520833333333333" />
+        <entry key="..\:/crw/5eNotes/app/src/main/res/layout/recone.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

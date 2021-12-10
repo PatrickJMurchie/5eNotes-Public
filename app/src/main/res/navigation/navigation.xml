@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/locationSelectionFragment">
+
+    <fragment
+        android:id="@+id/notes"
+        android:name="com.example.a5ENotes.notes"
+        android:label="fragment_notes"
+        tools:layout="@layout/fragment_notes" >
+        <action
+            android:id="@+id/NotesToMain"
+            app:destination="@id/locationSelectionFragment" />
+        <action
+            android:id="@+id/notesToCreate"
+            app:destination="@id/createNote" />
+    </fragment>
+    <fragment
+        android:id="@+id/itemlist"
+        android:name="com.example.a5ENotes.itemlist"
+        android:label="fragment_itemlist"
+        tools:layout="@layout/fragment_itemlist" >
+        <action
+            android:id="@+id/ItemListToMain"
+            app:destination="@id/locationSelectionFragment" />
+        <argument android:name="itemName"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="itemWeight"
+            app:argType="string"
+            app:nullable="true" />
+        <argument android:name="itemPrice"
+            app:argType="string"
+            app:nullable="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/items"
+        android:name="com.example.a5ENotes.items"
+        android:label="fragment_items"
+        tools:layout="@layout/fragment_items" >
+        <action
+            android:id="@+id/ItemsToMain"
+            app:destination="@id/locationSelectionFragment" />
+        <argument
+            android:name="itemName"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="itemWeight"
+            app:argType="string"
+            app:nullable="true" />
+        <argument android:name="itemPrice"
+            app:argType="string"
+            app:nullable="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/locationSelectionFragment"
+        android:name="com.example.a5ENotes.LocationSelectionFragment"
+        android:label="fragment_location_selection"
+        tools:layout="@layout/fragment_location_selection" >
+        <action
+            android:id="@+id/MainToItemList"
+            app:destination="@id/itemlist" />
+        <action
+            android:id="@+id/MainToNotes"
+            app:destination="@id/notes" />
+        <action
+            android:id="@+id/MainToItems"
+            app:destination="@id/items" />
+    </fragment>
+    <fragment
+        android:id="@+id/createNote"
+        android:name="com.example.a5ENotes.CreateNote"
+        android:label="fragment_create_note"
+        tools:layout="@layout/fragment_create_note" >
+        <action
+            android:id="@+id/createToNotes"
+            app:destination="@id/notes" />
+    </fragment>
+</navigation>

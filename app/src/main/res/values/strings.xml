@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">5ENotes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="homeN">Home</string>
+    <string name="todo">TODO</string>
+    <string name="my_notes">My Notes</string>
+    <string name="homeIL">Home</string>
+    <string name="my_items">My Items</string>
+    <string name="logo">Logo</string>
+    <string name="homeI">Home</string>
+    <string name="item_list">Item List</string>
+    <string name="logoimage">logoimage</string>
+    <string name="itemsName">Name</string>
+    <string name="itemsWeight">0 kg</string>
+    <string name="itemsValue">0 gp</string>
+    <string name="newN">New Note</string>
+    <string name="btnCreate">Create</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnChange">Change</string>
+    <string name="defname">Name</string>
+    <string name="defDesc">Description</string>
+</resources>
